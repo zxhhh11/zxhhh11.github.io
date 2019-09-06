@@ -1,0 +1,104 @@
+/* Wrappers */
+
+/* .wrapper {
+    background-image: url("images/bg.png");
+    box-shadow      : inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+    padding         : 8em 0 8em 0;
+    text-align      : center;
+}
+
+.wrapper.style1 {
+    background-image: none;
+    background-color: #fff;
+}
+
+.wrapper.style2 {
+    background-color: #fafafa;
+    text-shadow     : 1px 1px 0px #fff;
+}
+
+.wrapper.style3 {
+    background-color: #f4f4f4;
+    text-shadow     : 1px 1px 0px #fff;
+}
+
+.wrapper.style4 {
+    background-color: #303030;
+    color           : #999;
+    text-shadow     : -1px -1px 0px #181818;
+}
+
+.wrapper.style4 h1,
+.wrapper.style4 h2,
+.wrapper.style4 h3,
+.wrapper.style4 h4,
+.wrapper.style4 h5,
+.wrapper.style4 h6 {
+    color: #fff;
+}
+
+.wrapper.style4 form input[type=text],
+.wrapper.style4 form input[type=password],
+.wrapper.style4 form select,
+.wrapper.style4 form textarea {
+    border    : none;
+    background: #282828;
+}
+
+.wrapper.style4 form input[type=text]:focus,
+.wrapper.style4 form input[type=password]:focus,
+.wrapper.style4 form select:focus,
+.wrapper.style4 form textarea:focus {
+    background: #252525;
+}
+
+/* Image */
+
+/* .image {
+    display : inline-block;
+    position: relative;
+}
+
+.image img {
+    display: block;
+    width  : 100%;
+} */
+/* 
+.image.fit {
+    display: block;
+    width  : 100%;
+}
+
+.image.featured {
+    display: block;
+    width  : 100%;
+    margin : 0 0 2em 0;
+}
+
+.image.left {
+    float : left;
+    margin: 0 2em 2em 0;
+}
+
+.image.centered {
+    display: block;
+    margin : 0 0 2em 0;
+}
+
+.image.centered img {
+    margin: 0 auto;
+    width : auto;
+}  */
+#top{
+   margin-top: 60px;
+}
+.wrapper .image.fit>img{
+    border-radius: 50%;
+    
+}
+.detail{
+    margin: 8% 0;
+}
+.detail p,.detail a{
+    font-size: 18px;
+}
