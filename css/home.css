@@ -89,16 +89,9 @@
     margin: 0 auto;
     width : auto;
 }  */
-#top{
-   margin-top: 60px;
-}
-.wrapper .image.fit>img{
-    border-radius: 50%;
-    
-}
-.detail{
-    margin: 8% 0;
-}
-.detail p,.detail a{
-    font-size: 18px;
+
+
+.home {
+  color : #333;
+  margin: 50px 20px;
 }
